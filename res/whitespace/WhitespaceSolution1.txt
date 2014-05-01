@@ -1,0 +1,74 @@
+// "N5225123E940123" in den Speicher schreiben
+
+lllu          // push 0   // Speicherstelle 0
+llltlltttlu   // push 'N' // Zeichen 'N'
+ttl           // store    // in den Speicher
+
+llltu         	// push 1   // ...
+lllttltltu   	 	// push '5'
+ttl           	// store
+
+llltlu        	// push 2
+lllttlltlu   	  	// push '2'
+ttl           	// store
+
+lllttu        	// push 3
+lllttlltlu			// push '2'
+ttl           	// store
+
+llltllu        	// push 4
+lllttltltu			// push '5'
+ttl           	// store
+
+llltltu			// push 5
+lllttllltu   			// push '1'
+ttl           	// store
+
+lllttlu			// push 6
+lllttlltlu			// push '2'
+ttl           	// store
+
+llltttu			// push 7
+lllttllttu			// push '3'
+ttl           	// store
+
+llltlllu			// push 8
+llltllltltu   	// push 'E'
+ttl           	// store
+
+llltlltu			// push 9
+llltttlltu   		// push '9'
+ttl           	// store
+
+llltltlu			// push 10
+lllttltllu   		// push '4'
+ttl           	// store
+
+llltlttu        	// push 11
+lllttllllu			// push '0'
+ttl           	// store
+
+lllttllu      	// push 12
+lllttllltu    		// push '1'
+ttl           	// store
+
+lllttltu      	// push 13
+lllttlltlu      		// push '2'
+ttl           	// store
+
+llltttlu		    // push 14
+lllttllttu      		// push '3'
+ttl           	// store
+
+llllu
+ulllltu
+lul
+ttt
+lul
+utlltlu
+tull
+llltu
+tlll
+ululltu
+ullltlu
+uuu
