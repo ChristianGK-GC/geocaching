@@ -1,15 +1,14 @@
-package de.blafoo.geocaching.main;
+package de.blafoo.geocaching.GC4XEPJ;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
 
 import javax.imageio.ImageIO;
 
 import de.blafoo.geocaching.util.Morse;
 
 /**
- * http://coord.info/GC4XEPJ
+ * http://coord.info/GC4XEPJ K130
  */
 public class K130 {
 	

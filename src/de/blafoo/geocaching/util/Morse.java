@@ -1,12 +1,16 @@
 package de.blafoo.geocaching.util;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
 import org.apache.commons.lang3.StringUtils;
 
-
+/**
+ * Morse en-/decoder
+ * 
+ * @author blafoo
+ *
+ */
 public class Morse {
 
 	public final static int LOW = 0;

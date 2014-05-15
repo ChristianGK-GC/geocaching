@@ -1,4 +1,4 @@
-package de.blafoo.geocaching.main;
+package de.blafoo.geocaching.playground;
 
 /**
  * http://compsoc.dur.ac.uk/whitespace/download.php 					Perl Interpreter
